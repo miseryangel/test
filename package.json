@@ -1,0 +1,24 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "this is a test directory for one coursera course",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "\u0016",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miseryangel/test.git"
+  },
+  "author": "miseryangel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miseryangel/test/issues"
+  },
+  "homepage": "https://github.com/miseryangel/test#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
